@@ -1,0 +1,160 @@
+,neighbourhood_cleansed,crime_rate
+0,Santa Monica,725
+1,Redondo Beach,237
+2,Torrance,193
+3,Venice,725
+4,Highland Park,113
+5,Van Nuys,182
+6,Lynwood,643
+7,Culver City,464
+8,Malibu,344
+9,Glendale,114
+10,Hollywood,791
+11,Beverly Hills,301
+12,Encino,301
+13,View Park-Windsor Hills,613
+14,Carson,483
+15,Long Beach,506
+16,Altadena,432
+17,Topanga,146
+18,Lakewood,277
+19,Pacific Palisades,725
+20,Pasadena,432
+21,Agua Dulce,127
+22,Burbank,182
+23,West Hollywood,791
+24,El Segundo,490
+25,Inglewood,613
+26,Hermosa Beach,262
+27,South Pasadena,113
+28,Sherman Oaks,301
+29,Calabasas,146
+30,Alhambra,190
+31,Baldwin Park,248
+32,Montebello,284
+33,Monrovia,117
+34,Rolling Hills Estates,123
+35,Whittier,247
+36,Agoura Hills,102
+37,Woodland Hills,53
+38,Lomita,326
+39,La Canada Flintridge,74
+40,Playa del Rey,490
+41,Reseda,53
+42,North Hollywood,182
+43,Palmdale,419
+44,San Dimas,229
+45,East Pasadena,106
+46,Rancho Palos Verdes,69
+47,San Fernando,325
+48,West Covina,245
+49,Manhattan Beach,155
+50,Santa Clarita,127
+51,East San Gabriel,177
+52,Gardena,542
+53,East Los Angeles,209
+54,Pico Rivera,372
+55,Diamond Bar,128
+56,Monterey Park,209
+57,El Monte,262
+58,Claremont,139
+59,Sierra Madre,137
+60,Bell,470
+61,Ladera Heights,464
+62,Azusa,286
+63,Northridge,325
+64,Marina del Rey,725
+65,San Pasqual,106
+66,Hawthorne,728
+67,Hacienda Heights,378
+68,La Crescenta-Montrose,74
+69,Willowbrook,1142
+70,Canoga Park,53
+71,Norwalk,411
+72,Alondra Park,382
+73,Sun Valley,182
+74,San Gabriel,242
+75,West Los Angeles,725
+76,Arcadia,143
+77,Lawndale,382
+78,Glendora,297
+79,Avalon,269
+80,Rowland Heights,75
+81,South San Jose Hills,35821
+82,Pomona,615
+83,Vincent,356
+84,Tarzana,325
+85,Sylmar,325
+86,La Verne,158
+87,Downey,313
+88,Temple City,177
+89,South San Gabriel,321
+90,Del Aire,728
+91,Winnetka,53
+92,San Pedro,123
+93,Granada Hills,325
+94,Industry,35821
+95,Stevenson Ranch,127
+96,North Hills,325
+97,Lancaster,853
+98,Charter Oak,356
+99,West Hills,53
+100,Harbor City,326
+101,La Puente,378
+102,Lake Los Angeles,419
+103,West Carson,326
+104,Bellflower,424
+105,Chatsworth,53
+106,Palos Verdes Estates,30
+107,La Habra Heights,75
+108,Bell Gardens,347
+109,Castaic,127
+110,Irwindale,1770
+111,Walnut,126
+112,Cerritos,251
+113,Covina,356
+114,Signal Hill,817
+115,North El Monte,177
+116,Desert View Highlands,419
+117,Mayflower Village,143
+118,Sun Village,419
+119,Acton,419
+120,Duarte,255
+121,Rolling Hills,54
+122,West Puente Valley,378
+123,Rosemead,321
+124,Quartz Hill,853
+125,La Mirada,177
+126,South Whittier,582
+127,South Gate,659
+128,Panorama City,325
+129,Paramount,638
+130,Wilmington,326
+131,Westlake Village,156
+132,Green Valley,853
+133,Valinda,35821
+134,Avocado Heights,378
+135,Lennox,613
+136,Westmont,613
+137,Val Verde,127
+138,Arleta,325
+139,South El Monte,489
+140,Maywood,330
+141,Compton,1142
+142,Commerce,1078
+143,Huntington Park,787
+144,West Whittier-Los Nietos,372
+145,Vernon,24107
+146,Artesia,429
+147,Lake Hughes,853
+148,Citrus,356
+149,Pacoima,325
+150,Lake View Terrace,325
+151,Leona Valley,853
+152,Hasley Canyon,127
+153,Santa Fe Springs,582
+154,Elizabeth Lake,853
+155,San Marino,106
+156,Hidden Hills,53
+157,Hawaiian Gardens,531
+158,Bradbury,92

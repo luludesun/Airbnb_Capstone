@@ -1,6 +1,6 @@
-## Section 1 - Goals
+# Section 1 - Goals
 
-### Goals: The goals of this project is to: 
+## Goals: The goals of this project is to: 
 1. Measure the demand of Airbnb in LA; 
 2. Performed spatial and time series analysis;
 3. Build a model to predict the demand; 
@@ -8,7 +8,7 @@
 5. NLP and topic modeling on review dataset
 
 
-#### 1. Measure the demand of Airbnb in LA
+### 1. Measure the demand of Airbnb in LA
 
 **Demand index 1: Price**
 
@@ -21,10 +21,10 @@ Of course, using price per sqrt as the measure for Airbnb demand is also not opt
 	
 Here, in the dataset, we can calculate the number of days an Airbnb was booked, the number of days it was open for booking for any given month. Thus, (# of days booked / # of days) open for booking for a given month for a given Airbnb would be a good estimator of demand.
 
-#### 2. Perform spatial and time series analysis; 
+### 2. Perform spatial and time series analysis; 
 Perform spatial and time series to analyze the trend of demand over time. Then explore and visualize the variation of the spatial distribution of demand over time.
 
-#### 3. Build a model to predict the demand; 
+### 3. Build a model to predict the demand; 
 Train supervised machine learning models including Gaussian Naive Bayes, Linear Regression, Logistics Regression, Tree-based methods and KNN, and apply regularization with optimal parameters to overcome overfitting. Then evaluate model performance of classification via 5-fold validation technique and analyze feature importance to identify top factors that influenced the results.
 It is natural to see that tree-based methods might perform the best in this dataset, and linear regression might provide the best insights for this dataset. Thus, when building models, we can focus on those two.
 
@@ -36,13 +36,13 @@ In cross-validation, as the time-series effect in demand is expected to be impor
 
 For linear regression, we should be avoiding using too many indicator variables as the purpose of applying linear regression is to find out each covariate’s contribution to predicting the demand. For indicator variables, we can perform ANOVA to test which variables are important.
 
-#### 4. Measure the impact of each variable on the demand of Airbnb in LA
+### 4. Measure the impact of each variable on the demand of Airbnb in LA
 When analyzing a particular variable’s impact on the demand, we can use some causal inference techniques.
 As this is causal inference for observational data, the first step is to match treatment and control groups through propensity scores. Then, we should do a sensitivity analysis to examine the variance of our matching, and the validity of our results. In the end, we will include a table like Table 1 in https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2976021 (Page 9) for each covariate we consider interesting. 
 
 One of the instructors of our course Sam Pimentel’s research focus is on causal inference in a large observational dataset. We also hope to get some advice from him. He “developed new ways to form matched comparison groups in large observational datasets using approaches from discrete optimization. These tools allow transparent and interpretable inferences about the effects of interventions, and provide opportunities to study the impact of potential unobserved confounding variables” (https://www.stat.berkeley.edu/~spi/).
 
-#### NLP and topic modeling on review dataset
+### 5. NLP and topic modeling on review dataset
 Cluster reviews into groups and discover the latent semantic structure. 
 Then, preprocess review text by tokenization, stemming, removing stop words and extract features by TF-IDF. 
 Train unsupervised learning models of K-means clustering and LDA. 

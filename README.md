@@ -65,17 +65,18 @@ Last, Identified latent topic and keywords of each review for clustering.
 - Availability_365
 - Latitude
 - Longitude 
-- - Airbnb type & Sqft (private room vs. entire house)
+- Airbnb type & Sqft (private room vs. entire house)
 - First Review
 - Last Review
 
-### Neighborhood Geography Dataset obtained from Inside Airbnb
+### Additional Dataset
+#### Neighborhood Geography Dataset obtained from Inside Airbnb
 - Used to analyze listing datasets geographically in EDA
 
-### Crime Dataset obtained obtained by web scraping
+#### Crime Dataset obtained obtained by web scraping
 
-### Housing Dataset obtained from Tableau Public (Property Shark)
+#### Housing Dataset obtained from Tableau Public (Property Shark)
 
-### Population Dataset obtained from Data USA
+#### Population Dataset obtained from Data USA
 
 

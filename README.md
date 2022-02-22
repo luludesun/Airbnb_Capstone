@@ -48,9 +48,35 @@ Then, preprocess review text by tokenization, stemming, removing stop words and 
 Train unsupervised learning models of K-means clustering and LDA. 
 Last, Identified latent topic and keywords of each review for clustering.
 
+# Section 2 Dataset
 
+### Four main listing dataset obtained from Inside Airbnb
+1. March 2021 Listing Dataset
+2. June 2021 Listing Dataset
+3. September 2021 Listing Dataset
+4. December 2021 Listing Dataset
 
+**Structure (Some useful variables)**
+- Neighborhood
+- Price
+- Availability_30
+- Availability_60
+- Availability_90
+- Availability_365
+- Latitude
+- Longitude 
+- - Airbnb type & Sqft (private room vs. entire house)
+- First Review
+- Last Review
 
+### Neighborhood Geography Dataset obtained from Inside Airbnb
+- Used to analyze listing datasets geographically in EDA
+
+### Crime Dataset obtained obtained by web scraping
+
+### Housing Dataset obtained from Tableau Public (Property Shark)
+
+### Population Dataset obtained from Data USA
 
 
 

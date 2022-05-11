@@ -69,14 +69,4 @@ Last, Identified latent topic and keywords of each review for clustering.
 - First Review
 - Last Review
 
-### Additional Dataset
-#### Neighborhood Geography Dataset obtained from Inside Airbnb
-- Used to analyze listing datasets geographically in EDA
-
-#### Crime Dataset obtained obtained by web scraping
-
-#### Housing Dataset obtained from Tableau Public (Property Shark)
-
-#### Population Dataset obtained from Data USA
-
 

@@ -1,5 +1,3 @@
-# Section 1 - Goals
-
 ## Goals: The goals of this project is to: 
 1. Measure the demand of Airbnb in LA; 
 2. Performed spatial and time series analysis;
@@ -47,26 +45,3 @@ Cluster reviews into groups and discover the latent semantic structure.
 Then, preprocess review text by tokenization, stemming, removing stop words and extract features by TF-IDF. 
 Train unsupervised learning models of K-means clustering and LDA. 
 Last, Identified latent topic and keywords of each review for clustering.
-
-# Section 2 Dataset
-
-### Four main listing dataset obtained from Inside Airbnb
-1. March 2021 Listing Dataset
-2. June 2021 Listing Dataset
-3. September 2021 Listing Dataset
-4. December 2021 Listing Dataset
-
-**Structure (Some useful variables)**
-- Neighborhood
-- Price
-- Availability_30
-- Availability_60
-- Availability_90
-- Availability_365
-- Latitude
-- Longitude 
-- Airbnb type & Sqft (private room vs. entire house)
-- First Review
-- Last Review
-
-

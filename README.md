@@ -1,3 +1,11 @@
+## Key Questions to Answer
+
+1. What features should hosts prioritize and improve if they want to increase return-on-investment?
+2. How does location affect return-on-investment?
+3. How does demand changes with booking price, assuming everything else is fixed? (Price Elasticity)
+4. What is the pricing model and what business value does it have?
+
+
 ## Goals: The goals of this project is to: 
 1. Measure the demand of Airbnb in LA; 
 2. Performed spatial and time series analysis;
